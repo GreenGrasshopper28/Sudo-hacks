@@ -1,2 +1,2 @@
 # Sudo-hacks
-## Identify and Analyse various UI problems with present Instagram mobile applicaton
+## Identify and Analyse various UI/UX problems with present Instagram mobile applicaton
